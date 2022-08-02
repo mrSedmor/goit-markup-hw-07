@@ -1,0 +1,17 @@
+body {
+  min-width: $container-width;
+
+  font-family: 'Roboto', sans-serif;
+
+  color: $text-primary-color;
+
+  font-size: 16px;
+}
+
+img {
+  display: block;
+}
+
+svg {
+  fill: currentColor;
+}
